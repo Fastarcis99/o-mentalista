@@ -1,6 +1,8 @@
 # O Mentalista
 Nesse projeto era para ser feito um jogo de adivinhação, onde o usuário teria 10 chances de acertar um número de 1 a 1000, e além disso, aparecer frase se o o número digitado pelo usuário é maior ou menor do número que foi inserido pelo mesmo.
 
+**Esse projeto foi considerado um dos melhores da Imersão**
+
 ### Lembrando...
 Sou programador iniciante, então peço desculpa, caso tenha algum erro muito exorbitante.
 
